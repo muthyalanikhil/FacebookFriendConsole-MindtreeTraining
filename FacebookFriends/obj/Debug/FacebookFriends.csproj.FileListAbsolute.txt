@@ -1,0 +1,6 @@
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\bin\Debug\FacebookFriends.exe.config
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\bin\Debug\FacebookFriends.exe
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\bin\Debug\FacebookFriends.pdb
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\obj\Debug\FacebookFriends.csprojResolveAssemblyReference.cache
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\obj\Debug\FacebookFriends.exe
+D:\Practice\Assignment_6-8-15\FacebookFriends\FacebookFriends\obj\Debug\FacebookFriends.pdb
